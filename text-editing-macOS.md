@@ -1,4 +1,4 @@
-MacOS Simple Text Editing Shortcuts
+# MacOS Simple Text Editing Shortcuts
 
 **Note**
  * The below commands may change based on your version of macOS or the application you are using
